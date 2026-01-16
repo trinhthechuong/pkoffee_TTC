@@ -1,3 +1,4 @@
+[![Test](https://github.com/trinhthechuong/pkoffee_TTC/actions/workflows/test.yml/badge.svg)](https://github.com/trinhthechuong/pkoffee_TTC/actions/workflows/test.yml)
 # pkoffee
 
 
